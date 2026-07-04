@@ -40,32 +40,18 @@
 </div>
 
 ```yaml
-╔══════════════════════════════════════════════════════════════════════╗
-  name        :  Abhijit Balpande
-  education   :  B.Tech CSE @ MIT World Peace University, Pune — 2027
-  experience  :  iOS Developer Intern @ Infosys
-  role        :  Tech Head @ CoDeC Club  (200+ members)
-  research    :  Published — Grenze International Journal of Engg. & Tech.
-  achievements:
-    🏆  ICPC — University Rank #1
-    🥇  Smart India Hackathon 2024 — Internal Winner
-    📝  Research Paper Published (IoT & Agricultural Automation)
-  interests   :  Systems · AI/ML · Competitive Programming · iOS · Open Source
-  status      :  ✅  Open to SDE / AI / iOS internships & full-time roles
-╚══════════════════════════════════════════════════════════════════════╝
+name        :  Abhijit Balpande
+education   :  B.Tech CSE @ MIT World Peace University, Pune — 2027
+experience  :  iOS Developer Intern @ Infosys
+role        :  Tech Head @ CoDeC Club  (200+ members)
+research    :  Published — Grenze International Journal of Engg. & Tech.
+achievements:
+  - ICPC — University Rank #1
+  - Smart India Hackathon 2024 — Internal Winner
+  - Research Paper Published (IoT & Agricultural Automation)
+interests   :  Systems · AI/ML · Competitive Programming · iOS · Open Source
+status      :  Open to SDE / AI / iOS internships & full-time roles
 ```
-
----
-
-<div align="center">
-
-## 🏅 At a Glance
-
-| 🏆 ICPC Rank | ⚡ Codeforces | 🍴 CodeChef | 📄 Publications | 👥 Club Members |
-|:---:|:---:|:---:|:---:|:---:|
-| **#1 University** | **1200+ Rating** | **1500+ Rating** | **1 (Grenze IJET)** | **200+** |
-
-</div>
 
 ---
 
@@ -83,7 +69,7 @@
 
 **[ Tooling · Platforms · DevOps ]**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,xcode,cmake&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,cmake&perline=6" />
 
 </div>
 
@@ -95,8 +81,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Redrob AI
-**`Candidate Intelligence Pipeline`**
+**🤖 Redrob AI** &nbsp;—&nbsp; `Candidate Intelligence Pipeline`
 
 > `Python` &nbsp;`NLP` &nbsp;`LLMs` &nbsp;`Vector Embeddings`
 
@@ -104,8 +89,7 @@ AI/ML scoring pipeline handling **100K+ candidate records** in production. Desig
 
 <br/>
 
-### 🧠 Quizzingly
-**`AI-Powered Real-Time Quiz Engine`**
+**🧠 Quizzingly** &nbsp;—&nbsp; `AI-Powered Real-Time Quiz Engine`
 
 > `Node.js` &nbsp;`React` &nbsp;`Socket.IO` &nbsp;`Redis` &nbsp;`LLMs`
 
@@ -113,8 +97,7 @@ Millisecond-latency multiplayer backend with Redis-powered real-time state sync.
 
 <br/>
 
-### 🔍 Semantic CP Search Engine
-**`Vector Search over 8K+ Problems`**
+**🔍 Semantic CP Search Engine** &nbsp;—&nbsp; `Vector Search over 8K+ Problems`
 
 > `Python` &nbsp;`LLM Embeddings` &nbsp;`Qdrant / Pinecone`
 
@@ -123,8 +106,7 @@ Semantic search engine indexing **8,000+ competitive programming problems**. Mig
   </td>
   <td width="50%" valign="top">
 
-### ⚙️ Lumina
-**`C++20 CLI File Compressor`**
+**⚙️ Lumina** &nbsp;—&nbsp; `C++20 CLI File Compressor`
 
 > `C++20` &nbsp;`Huffman` &nbsp;`LZW` &nbsp;`Zero Dependencies`
 
@@ -132,8 +114,7 @@ High-performance, zero-dependency file compressor built purely from the C++20 st
 
 <br/>
 
-### 📱 GitaConnect
-**`Native iOS Cultural Education App`**
+**📱 GitaConnect** &nbsp;—&nbsp; `Native iOS Cultural Education App`
 
 > `Swift 5` &nbsp;`REST APIs` &nbsp;`Custom Animations` &nbsp;`Xcode`
 
@@ -141,8 +122,7 @@ Native iOS app with polished custom UI architecture, fluid animations, and clean
 
 <br/>
 
-### 🌾 AgriAutomate
-**`Published Research — IoT + Automation`**
+**🌾 AgriAutomate** &nbsp;—&nbsp; `Published Research — IoT + Automation`
 
 > `IoT` &nbsp;`Embedded Systems` &nbsp;`Data Analysis`
 
