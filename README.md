@@ -20,7 +20,7 @@
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/AbhijitDaBest">
-  <img src="https://img.shields.io/badge/Codeforces-1200%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1300%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/abhijit_balpande">
