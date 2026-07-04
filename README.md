@@ -1,79 +1,88 @@
 <h1 align="center">Hi there, I'm Abhijit Balpande 👋</h1>
 
-<h3 align="center">Systems Engineer | Competitive Programmer | Full-Stack & iOS Developer</h3>
+<p align="center">
+  <strong>Computer Science Undergrad @ MIT World Peace University | Tech Head @ CoDeC Club | iOS Developer</strong>
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/abhijit-balpande">
+<p align="center">
+  <a href="mailto:abalpande1804@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/abhijitbalpande">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/AbhijitDaBest">
-    <img src="https://img.shields.io/badge/Codeforces-1200+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/AbhijitDoesCoding">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/abhijit_balpande">
-    <img src="https://img.shields.io/badge/CodeChef-1500+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</div>
-
-<br/>
-
-I am a Computer Science undergraduate at Dr. Vishwanath Karad MIT World Peace University with a strong foundation in Data Structures and Algorithms. I bridge the gap between rigorous algorithmic problem-solving and scalable, real-world engineering—whether that means optimizing memory in C++, building real-time multiplayer backends, or crafting native iOS experiences.
-
-### 🚀 What I'm Currently Up To
-- 💻 Building **Lumina**: A high-performance command-line file compressor written in modern C++ (C++20) using pure standard library components.
-- 🏆 Competing in hackathons (like **INDIA RUNS** and **AI for Bharat**) and building intelligent AI-driven pipelines.
-- 🧠 Serving as the Tech Head of the CoDeC Club, mentoring students in DSA and algorithmic problem solving.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Backend, Data & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-</p>
-
-**Frontend & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white" alt="SwiftUI" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitDoesCoding&layout=compact&theme=radical&hide_border=true" width="60%" />
-</div>
+- 🎓 Pursuing a **B.Tech in Computer Science** at Dr. Vishwanath Karad MIT World Peace University, Pune (Expected July 2027)
+- 💼 Previously **iOS Developer Intern at Infosys**, where I built a Retail Store Management System and integrated Supabase backend for real-time stock verification.
+- 🚀 **Tech Head** of the CoDeC Club, leading technical workshops and mentoring students in Data Structures & Algorithms.
+- 🏆 **Smart India Hackathon 2024 (Internal) Winner** & **ICPC University Topper (1st Rank)**.
+- 📝 Published researcher: *Agricultural Automation and IoT Integration (Grenze IJET)*.
+- ⚡ In my free time, I love doing Competitive Programming (1200+ Codeforces, 1500+ CodeChef) and building AI-driven solutions.
 
 ---
 
-### ⚡ Highlights & Achievements
-* **ICPC University Topper:** Secured 1st Rank in the university-level International Collegiate Programming Contest.
-* **Published Researcher:** Co-authored a paper on "Agricultural Automation and IoT Integration" in the Grenze International Journal of Engineering and Technology.
-* **Open Source Contributor:** Actively collaborating on tools like *Ai-Recruiter* and managing infrastructure via GitHub Actions workflows.
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <i>"Optimizing for memory, speed, and real-world impact."</i>
-</div>
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+**AI & Machine Learning**  
+![NLP](https://img.shields.io/badge/NLP-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Architecture, Data & Tools**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 Redrob AI — Intelligent Candidate Ranker
+Engineered a scalable AI/ML scoring pipeline in Python processing 100K+ candidate records. Prototyped new tools for a gated ranking architecture, improving Top-10 recommendation quality, and built NLP feature extraction pipelines for offline inference.
+
+#### 🧠 Quizzingly — AI Powered Real-Time Quiz Platform
+Architected a scalable Node.js backend with a React frontend using Socket.IO for low-latency communication. Built an AI pipeline utilizing LLM APIs and strict function calling to parse PDFs/text and generate structured JSON outputs.
+
+#### 🎵 Arcade AI — Adaptive Music Generator
+Prototyped and pitched an adaptive AI music generation tool during the Wubble Weekend Hackathon, integrating modern AI workflows to dynamically generate outputs based on contextual parameters.
+
+#### 🔍 Semantic Vector Search Engine
+Built a semantic search engine indexing 8,000+ competitive programming problems. Transitioned from traditional TF-IDF to modern LLM embeddings and integrated a vector database (Pinecone/Qdrant) for fast, context-aware semantic retrieval.
+
+#### 📱 GitaConnect — Native iOS Application
+Built a native iOS application in Swift integrating REST APIs and custom animations. Maintained a scalable architecture using Git branching workflows.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=radium" alt="Abhijit's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=radium" alt="Abhijit's GitHub streak" />
+</p>
+
+---
+<p align="center">
+  <i>"Blending creativity with analytical thinking to build scalable solutions."</i>
+</p>
