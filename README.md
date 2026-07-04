@@ -33,7 +33,6 @@
 ---
 
 ### 💻 The Arsenal
-*Instead of standard badges, here are high-res, beautifully rendered tech icons.*
 
 <div align="center">
   <a href="https://skillicons.dev">
