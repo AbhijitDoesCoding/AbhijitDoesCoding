@@ -1,88 +1,94 @@
-<h1 align="center">Hi there, I'm Abhijit Balpande 👋</h1>
-
-<p align="center">
-  <strong>Computer Science Undergrad @ MIT World Peace University | Tech Head @ CoDeC Club | iOS Developer</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:abalpande1804@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div align="center">
+  
+  # ⚡ Abhijit Balpande
+  
+  <!-- Animated Typing Text -->
+  <a href="https://github.com/AbhijitDoesCoding">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=60&lines=High-Performance+Systems+Engineer;Competitive+Programmer+(ICPC+Topper);Full-Stack+%26+Native+iOS+Developer;Optimizing+for+Memory+and+Speed" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/abhijitbalpande">
+
+  <!-- Profile Visitor Counter -->
+  <p><img src="https://profile-counter.glitch.me/AbhijitDoesCoding/count.svg" alt="Profile Views"></p>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AbhijitDoesCoding&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhijit-balpande">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/AbhijitDoesCoding">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/AbhijitDaBest">
+    <img src="https://img.shields.io/badge/Codeforces-1200+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-</p>
+  <a href="https://www.codechef.com/users/abhijit_balpande">
+    <img src="https://img.shields.io/badge/CodeChef-1500+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 The Arsenal
+*Instead of standard badges, here are high-res, beautifully rendered tech icons.*
 
-- 🎓 Pursuing a **B.Tech in Computer Science** at Dr. Vishwanath Karad MIT World Peace University, Pune (Expected July 2027)
-- 💼 Previously **iOS Developer Intern at Infosys**, where I built a Retail Store Management System and integrated Supabase backend for real-time stock verification.
-- 🚀 **Tech Head** of the CoDeC Club, leading technical workshops and mentoring students in Data Structures & Algorithms.
-- 🏆 **Smart India Hackathon 2024 (Internal) Winner** & **ICPC University Topper (1st Rank)**.
-- 📝 Published researcher: *Agricultural Automation and IoT Integration (Grenze IJET)*.
-- ⚡ In my free time, I love doing Competitive Programming (1200+ Codeforces, 1500+ CodeChef) and building AI-driven solutions.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-
-**AI & Machine Learning**  
-![NLP](https://img.shields.io/badge/NLP-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Architecture, Data & Tools**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,swift,ts,js,nodejs,react,postgres,redis,supabase,docker,cmake,git,github,linux,bash&perline=8" />
+  </a>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What's Compiling Right Now
 
-#### 🤖 Redrob AI — Intelligent Candidate Ranker
-Engineered a scalable AI/ML scoring pipeline in Python processing 100K+ candidate records. Prototyped new tools for a gated ranking architecture, improving Top-10 recommendation quality, and built NLP feature extraction pipelines for offline inference.
-
-#### 🧠 Quizzingly — AI Powered Real-Time Quiz Platform
-Architected a scalable Node.js backend with a React frontend using Socket.IO for low-latency communication. Built an AI pipeline utilizing LLM APIs and strict function calling to parse PDFs/text and generate structured JSON outputs.
-
-#### 🎵 Arcade AI — Adaptive Music Generator
-Prototyped and pitched an adaptive AI music generation tool during the Wubble Weekend Hackathon, integrating modern AI workflows to dynamically generate outputs based on contextual parameters.
-
-#### 🔍 Semantic Vector Search Engine
-Built a semantic search engine indexing 8,000+ competitive programming problems. Transitioned from traditional TF-IDF to modern LLM embeddings and integrated a vector database (Pinecone/Qdrant) for fast, context-aware semantic retrieval.
-
-#### 📱 GitaConnect — Native iOS Application
-Built a native iOS application in Swift integrating REST APIs and custom animations. Maintained a scalable architecture using Git branching workflows.
+- ⚙️ **Lumina:** Building a high-performance, std-lib only CLI file compressor in modern C++20 (Huffman/LZW).
+- 📱 **GitaConnect:** Developing a native Swift 5 cultural education iOS application featuring complex custom UI architectures.
+- ⚡ **Quizzingly:** Architecting millisecond-latency multiplayer Node.js/Redis backends for real-time state synchronization.
+- 🏆 **Hackathons:** Actively shipping AI prototypes for competitions like INDIA RUNS and AI for Bharat.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 The Telemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=radium" alt="Abhijit's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=radium" alt="Abhijit's GitHub streak" />
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijitDoesCoding&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitDoesCoding&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" alt="Top Languages" />
+</div>
 
 ---
-<p align="center">
-  <i>"Blending creativity with analytical thinking to build scalable solutions."</i>
-</p>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhijitDoesCoding/AbhijitDoesCoding/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhijitDoesCoding/AbhijitDoesCoding/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbhijitDoesCoding/AbhijitDoesCoding/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <i>"A 512MB RAM constraint isn't a limitation; it's a design requirement."</i>
+</div>
