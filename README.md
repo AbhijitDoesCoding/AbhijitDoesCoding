@@ -16,7 +16,7 @@
 </a>
 &nbsp;
 <a href="mailto:abalpande1804@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Hire%20Me-D14836?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-Contact-D14836?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/AbhijitDaBest">
