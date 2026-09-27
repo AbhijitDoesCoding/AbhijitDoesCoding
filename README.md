@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Roles -->
 <a href="https://github.com/AbhijitDoesCoding">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Backend+%26+Distributed+Systems;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=SDE+Intern+(Backend)+%40+Osmos.ai;Backend+%26+Distributed+Systems;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -42,7 +42,9 @@
 ```yaml
 name        :  Abhijit Balpande
 education   :  B.Tech CSE @ MIT World Peace University, Pune — 2027
-experience  :  iOS Developer Intern @ Infosys
+experience  :
+  - SDE Intern (Backend) @ Osmos.ai
+  - iOS Developer Intern @ Infosys
 role        :  Tech Head @ CoDeC Club  (200+ members)
 research    :  Published — Grenze International Journal of Engg. & Tech.
 achievements:
