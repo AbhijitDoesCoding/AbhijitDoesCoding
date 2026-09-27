@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Roles -->
 <a href="https://github.com/AbhijitDoesCoding">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Full-Stack+%26+Native+iOS+Developer;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Open+to+SDE+%2F+AI+%2F+iOS+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Backend+%26+Distributed+Systems;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -49,8 +49,8 @@ achievements:
   - ICPC — University Rank #1
   - Smart India Hackathon 2024 — Internal Winner
   - Research Paper Published (IoT & Agricultural Automation)
-interests   :  Systems · AI/ML · Competitive Programming · iOS · Open Source
-status      :  Open to SDE / AI / iOS internships & full-time roles
+interests   :  Distributed Systems · AI/ML Pipelines · Backend Architecture
+status      :  Architecting scalable backend solutions & real-time systems
 ```
 
 ---
@@ -114,19 +114,19 @@ High-performance, zero-dependency file compressor built purely from the C++20 st
 
 <br/>
 
-**📱 GitaConnect** &nbsp;—&nbsp; `Native iOS Cultural Education App`
+**🚚 TransitOps** &nbsp;—&nbsp; `AI-Powered Fleet OS`
 
-> `Swift 5` &nbsp;`REST APIs` &nbsp;`Custom Animations` &nbsp;`Xcode`
+> `Next.js` &nbsp;`Supabase` &nbsp;`PostgreSQL` &nbsp;`Groq LLMs`
 
-Native iOS app with polished custom UI architecture, fluid animations, and clean Swift 5 codebase. Built around cultural education with a focus on performance and UX craft.
+AI-driven logistics operating system featuring granular RBAC, PostgreSQL triggers, and an LLM dispatch assistant that grounds routing recommendations in live fleet metrics.
 
 <br/>
 
-**🌾 AgriAutomate** &nbsp;—&nbsp; `Published Research — IoT + Automation`
+**⚔️ 1v1 C++ Arena** &nbsp;—&nbsp; `Real-Time Algorithmic Dueling`
 
-> `IoT` &nbsp;`Embedded Systems` &nbsp;`Data Analysis`
+> `React` &nbsp;`Firebase RTDB` &nbsp;`Vercel Serverless` &nbsp;`Zustand`
 
-Research on integrating IoT and automation into agricultural pipelines. **Published in the Grenze International Journal of Engineering & Technology (IJET).**
+Low-latency multiplayer duel platform using a real-time queue. Secure, authoritative serverless validator orchestrates distributed code execution and handles server-side Elo rating updates.
 
   </td>
   </tr>
