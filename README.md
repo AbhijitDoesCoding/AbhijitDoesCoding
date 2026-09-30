@@ -158,7 +158,7 @@ Martin is a blazing fast vector tile server written in Rust.
 ## 📡 Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="165" alt="GitHub Streak" />
 </div>
