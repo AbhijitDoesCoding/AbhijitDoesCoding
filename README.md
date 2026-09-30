@@ -63,7 +63,7 @@ status      :  Architecting scalable backend solutions & real-time systems
 
 **[ Languages & Systems ]**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,swift,ts,js,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,python,swift,ts,js,bash&perline=7" />
 
 **[ Web · Backend · Infrastructure ]**
 
@@ -142,12 +142,12 @@ Low-latency multiplayer duel platform using a real-time queue. Secure, authorita
   <tr>
     <td width="100%" valign="top">
 
-**[osm-search / Nominatim](https://github.com/osm-search/Nominatim)** &nbsp;—&nbsp; `OpenStreetMap Geocoding Engine`
+**[maplibre / martin](https://github.com/maplibre/martin)** &nbsp;—&nbsp; `High-Performance Vector Tile Server`
 
-> `C++` &nbsp;`PostgreSQL` &nbsp;`Python`
+> `Rust` &nbsp;`DuckDB` &nbsp;`GeoParquet` &nbsp;`CQL2`
 
-Nominatim is the primary search and geocoding tool used globally by OpenStreetMap. 
-- **Contribution:** Fixed a core place category inheritance bug for linked boundaries, improving the accuracy of hierarchical geographic data retrieval.
+Martin is a blazing fast vector tile server written in Rust. 
+- **Contribution:** Implemented CQL2 filtering for DuckDB GeoParquet sources in **Rust**, dynamically translating predicates into tile queries while strictly preserving **Parquet predicate pushdown** and row-group pruning. ([PR #3409](https://github.com/maplibre/martin/pull/3409) merged upstream).
 
   </td>
   </tr>
