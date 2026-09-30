@@ -67,7 +67,7 @@ status      :  Architecting scalable backend solutions & real-time systems
 
 **[ Web · Backend · Infrastructure ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,postgres,redis,supabase&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi,postgres,mysql,redis,supabase,firebase,vercel&perline=5" />
 
 **[ Tooling · Platforms · DevOps ]**
 
@@ -136,10 +136,29 @@ Low-latency multiplayer duel platform using a real-time queue. Secure, authorita
 
 ---
 
+## 🌍 Open Source Contributions
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+
+**[osm-search / Nominatim](https://github.com/osm-search/Nominatim)** &nbsp;—&nbsp; `OpenStreetMap Geocoding Engine`
+
+> `C++` &nbsp;`PostgreSQL` &nbsp;`Python`
+
+Nominatim is the primary search and geocoding tool used globally by OpenStreetMap. 
+- **Contribution:** Fixed a core place category inheritance bug for linked boundaries, improving the accuracy of hierarchical geographic data retrieval.
+
+  </td>
+  </tr>
+</table>
+
+---
+
 ## 📡 Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbhijitDoesCoding&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitDoesCoding&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="165" alt="GitHub Streak" />
 </div>
@@ -147,7 +166,7 @@ Low-latency multiplayer duel platform using a real-time queue. Secure, authorita
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijitDoesCoding&theme=tokyo-night&bg_color=0D1117&color=00FF99&line=00FF99&point=ffffff&hide_border=true&area=true&area_color=00FF9920" width="100%" alt="Activity Graph" />
+  <img src="https://gh-readme-activity-graph.vercel.app/graph?username=AbhijitDoesCoding&theme=tokyo-night&bg_color=0D1117&color=00FF99&line=00FF99&point=ffffff&hide_border=true&area=true&area_color=00FF9920" width="100%" alt="Activity Graph" />
 </div>
 
 ---
