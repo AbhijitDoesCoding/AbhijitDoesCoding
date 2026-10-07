@@ -140,16 +140,24 @@ Low-latency multiplayer duel platform using a real-time queue. Secure, authorita
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
 
-**[maplibre / martin](https://github.com/maplibre/martin)** &nbsp;—&nbsp; `High-Performance Vector Tile Server`
+**[maplibre / martin](https://github.com/maplibre/martin)** &nbsp;—&nbsp; `Vector Tile Server`
 
-> `Rust` &nbsp;`DuckDB` &nbsp;`GeoParquet` &nbsp;`CQL2`
+> `Rust` &nbsp;`DuckDB` &nbsp;`GeoParquet`
 
 Martin is a blazing fast vector tile server written in Rust. 
-- **Contribution:** Implemented CQL2 filtering for DuckDB GeoParquet sources in **Rust**, dynamically translating predicates into tile queries while strictly preserving **Parquet predicate pushdown** and row-group pruning. ([PR #3409](https://github.com/maplibre/martin/pull/3409) merged upstream).
+- **Contribution:** Implemented CQL2 filtering for DuckDB GeoParquet sources in **Rust**, dynamically translating predicates into tile queries while strictly preserving **Parquet predicate pushdown** and row-group pruning. ([PR #3409](https://github.com/maplibre/martin/pull/3409) merged)
 
   </td>
+  <td width="50%" valign="top">
+
+**[valhalla / valhalla](https://github.com/valhalla/valhalla)** &nbsp;—&nbsp; `OSM Routing Engine`
+
+> `C++` &nbsp;`OpenStreetMap`
+
+Valhalla is an open source routing engine for OpenStreetMap.
+- **Contribution:** Fixed critical tile argument validation in the `valhalla_add_elevation` tool in **C++**, enabling robust elevation data processing and resolving long-standing validation branch errors. ([PR #6361](https://github.com/valhalla/valhalla/pull/6361) merged)
   </tr>
 </table>
 
