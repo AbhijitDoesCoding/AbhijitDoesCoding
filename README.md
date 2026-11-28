@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Roles -->
 <a href="https://github.com/AbhijitDoesCoding">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=SDE+Intern+(Backend)+%40+Osmos.ai;Backend+%26+Distributed+Systems;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=SDE+Intern+(Backend)+%40+Osmos.ai;1st+Place+%E2%80%94+IEEE+Smart+City+Ideathon+2026;Backend+%26+Distributed+Systems;AI+%2F+ML+Pipeline+Engineer;Competitive+Programmer+%E2%80%94+ICPC+University+%231;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -48,6 +48,7 @@ experience  :
 role        :  Tech Head @ CoDeC Club  (200+ members)
 research    :  Published — Grenze International Journal of Engg. & Tech.
 achievements:
+  - 1st Place — IEEE Smart City Ideathon 2026
   - ICPC — University Rank #1
   - Smart India Hackathon 2024 — Internal Winner
   - Research Paper Published (IoT & Agricultural Automation)
